@@ -91,3 +91,5 @@ Vector2 calculate_relative_tiles(u32 absolute_tile_x, absolute_tile_y) {
 
 - set up a notion of camera
     - set_camera_world_position(world_position new_world_position);
+
+- eventually port to c-build and then use ckit
